@@ -7,7 +7,7 @@ table {
 }
 
 .table1 {
-  background-color: aqua;
+  background-color: #2f7744;
   border: solid;
 }
 
@@ -25,6 +25,7 @@ td {
 #tab1d1 {
   color: maroon;
   background-color: white;
+  height: 500px;
 }
 
 #tab1d2 {
