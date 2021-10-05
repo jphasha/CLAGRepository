@@ -1,3 +1,12 @@
 body {
-  background-color: lightBlue
+  background-color: lightBlue;
+}
+
+table {
+  background-color: lightGrey;
+}
+
+.table1 {
+  background-color: aqua;
+  border: solid;
 }
