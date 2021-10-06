@@ -1,8 +1,14 @@
 body {
-    background-image: url("https://www.pngarts.com/files/6/Confetti-Transparent-Background-PNG.png");
+  background-image: url("https://www.pngarts.com/files/6/Confetti-Transparent-Background-PNG.png");
 }
 
 #container {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#card-element {
+  width: 100px;
+  height: 500px;
 }
